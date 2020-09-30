@@ -5,3 +5,4 @@ Files included:
 -> style.css
 -> main.js
   
+ps: Please ignore Image-Detail-Tool subfolder
